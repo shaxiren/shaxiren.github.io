@@ -1668,21 +1668,21 @@
   {
     "fund_code": "000216",
     "fund_name": "华安黄金ETF",
-    "index_code": "AU9999",
+    "index_code": "AU99.99",
     "date": "2026-04-30",
     "type": "申购"
   },
   {
     "fund_code": "000216",
     "fund_name": "华安黄金ETF",
-    "index_code": "AU9999",
+    "index_code": "Au99.99",
     "date": "2026-05-21",
     "type": "申购"
   },
   {
     "fund_code": "000216",
     "fund_name": "华安黄金ETF",
-    "index_code": "AU9999",
+    "index_code": "Au99.99",
     "date": "2026-09-17",
     "type": "申购"
   }
