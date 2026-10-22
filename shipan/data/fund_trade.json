@@ -126,6 +126,13 @@
     "type": "申购"
   },
   {
+    "fund_code": "164906",
+    "fund_name": "交银海外互联",
+    "index_code": "H11136", 
+    "date": "2026-10-22",
+    "type": "申购"
+  },
+  {
     "fund_code": "013308",
     "fund_name": "易方达恒生科技",
     "index_code": "HSTECH", 
@@ -165,6 +172,13 @@
     "fund_name": "易方达恒生科技",
     "index_code": "HSTECH", 
     "date": "2026-10-08",
+    "type": "申购"
+  },
+   {
+    "fund_code": "013308",
+    "fund_name": "易方达恒生科技",
+    "index_code": "HSTECH", 
+    "date": "2026-10-22",
     "type": "申购"
   },
   {
@@ -1684,6 +1698,13 @@
     "fund_name": "华安黄金ETF",
     "index_code": "Au99.99",
     "date": "2026-09-17",
+    "type": "申购"
+  },
+  {
+    "fund_code": "002656",
+    "fund_name": "华安黄金ETF",
+    "index_code": "399006",
+    "date": "2026-10-22",
     "type": "申购"
   }
 ]
